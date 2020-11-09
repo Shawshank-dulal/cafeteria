@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "432243258845",
+    "firebase_url": "https://cafateriaaccounts.firebaseio.com",
+    "project_id": "cafateriaaccounts",
+    "storage_bucket": "cafateriaaccounts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432243258845:android:04c293ea50301f0741b234",
+        "android_client_info": {
+          "package_name": "com.example.cafateriaclientapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432243258845-8124o4vjdc0n29ti0str78konmim2ahe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZx_sy53BLp0RTzj_Fu5SS-7PYsF6KNpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432243258845-8124o4vjdc0n29ti0str78konmim2ahe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

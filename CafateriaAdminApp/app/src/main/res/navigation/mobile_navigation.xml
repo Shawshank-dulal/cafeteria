@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_menu_item">
+
+    <fragment
+        android:id="@+id/nav_menu_item"
+        android:name="com.example.cafateriaadminapp.ui.menu_item.MenuItemFragment"
+        android:label="@string/menu_item"
+        tools:layout="@layout/fragment_menu_item" >
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_order_history"
+        android:name="com.example.cafateriaadminapp.ui.order_history.OrderHistoryFragment"
+        android:label="Orders History"
+        tools:layout="@layout/fragment_order_history"
+        />
+
+    <fragment
+        android:id="@+id/nav_routine"
+        android:name="com.example.cafateriaadminapp.ui.Routine.RoutineFragment"
+        android:label="Routine"
+        tools:layout="@layout/fragment_routine"
+        />
+
+    <fragment
+        android:id="@+id/nav_users"
+        android:name="com.example.cafateriaadminapp.ui.Users.UsersFragment"
+        android:label="Users"
+        tools:layout="@layout/fragment_users"
+        />
+
+
+
+
+</navigation>

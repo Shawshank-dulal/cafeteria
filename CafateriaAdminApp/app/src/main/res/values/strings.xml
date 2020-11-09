@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CafateriaAdminApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_item">Menu Items</string>
+    <string name="order_history">Order History</string>
+    <string name="routine">Add Routine</string>
+    <string name="users">Users</string>
+    <string name="update">Update</string>
+    <string name="fetching_data">fetching data</string>
+    <string name="loading">Loading</string>
+    <string name="fetching_data_failed">Fetching Data Failed</string>
+    <string name="categories">Categories</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="status">Status</string>
+    <string name="view_orders">View Orders</string>
+    <string name="done">Done</string>
+</resources>
